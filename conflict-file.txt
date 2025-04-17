@@ -3,3 +3,5 @@ Change from master branch
 =======
 Change from conflict-branch
 >>>>>>> conflict-branch
+
+Change made on GitHub
